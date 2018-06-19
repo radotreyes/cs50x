@@ -3,7 +3,7 @@ Harvard CS50x problem sets and projects.
 
 # My Progress
 - [x] Week 0
-  - Link to my project from Problem Set 0, [Hat Thief](https://scratch.mit.edu/projects/229693968/)
+  - Project: [Hat Thief](https://scratch.mit.edu/projects/229693968/)
 - [ ] Week 1
 - [ ] Week 2
 - [ ] Week 3
