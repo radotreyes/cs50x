@@ -2,7 +2,8 @@
 Harvard CS50x problem sets and projects. 
 
 # My Progress
-- [x] Week 0 (18 Jun 18)
+- [x] Week 0
+  - Complete: 6/18/18
   - Project: [Hat Thief](https://scratch.mit.edu/projects/229693968/)
 - [ ] Week 1
 - [ ] Week 2
