@@ -6,7 +6,7 @@ Harvard CS50x problem sets and projects.
   - Started: 6/19/18
   - Complete: 6/19/18
   - Project: [Hat Thief](https://scratch.mit.edu/projects/229693968/)
-- [ ] **Week 1**
+- [x] **Week 1**
   - Started: 6/20/18
   - Complete: 6/21/18
   - Problem Set 1: `hello.c`, `mario.c` (more), `credit.c`
