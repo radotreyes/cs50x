@@ -9,7 +9,7 @@ int main( int argc, char* argv[]) {
      * Retrieves a plain word and keyword, then returns an encrypted word with characters of the form:
      * encrypted_i = ( plain_i + key_j ) % 26
      *
-     * (mod 26 makes sure that A is stored as 0, B as 1, etc.)
+     * (mod 26 makes sure that ASCII char overflow is handled)
      *
      * @param   { char* }   keyword     An encryption key consisting only of alphabetical characters.
      */
