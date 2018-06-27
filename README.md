@@ -18,7 +18,7 @@ Harvard CS50x problem sets and projects.
 - [ ] **Week 3**
   - Started: 6/25/18
   - Complete: ?
-  - Problem Set 4: `whodunit.c`, `recover.c`
+  - Problem Set 4: `whodunit.c`, `resize.c` (more), `recover.c`
 - [ ] **Week 4**
 - [ ] **Week 5**
 - [ ] **Week 6**
