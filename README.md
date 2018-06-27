@@ -17,7 +17,7 @@ Harvard CS50x problem sets and projects.
   - Problem Set 3: `helper.c`, `bday.txt`
 - [x] **Week 3**
   - Started: 6/25/18
-  - Complete: ?
+  - Complete: 6/26/18
   - Problem Set 4: `whodunit.c`, `resize.c` (more), `recover.c`
 - [ ] **Week 4**
 - [ ] **Week 5**
