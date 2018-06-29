@@ -19,11 +19,13 @@ Harvard CS50x problem sets and projects.
   - Started: 6/25/18
   - Complete: 6/26/18
   - Problem Set 4: `whodunit.c`, `resize.c` (more), `recover.c`
-- [ ] **Week 4**
+- [x] **Week 4**
   - Started: 6/27/18
-  - Complete: ?
-  - Problem Set 5: ?
+  - Complete: 6/28/18
+  - Problem Set 5: `speller.c` `dictionary.c` (on hold and adopted as a personal project for the interest of completing this course on time)
 - [ ] **Week 5**
+  - Started: 6/29/18
+  - Complete: ?
 - [ ] **Week 6**
 - [ ] **Week 7**
 - [ ] **Week 8**
