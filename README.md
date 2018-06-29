@@ -22,7 +22,7 @@ Harvard CS50x problem sets and projects.
 - [x] **Week 4**
   - Started: 6/27/18
   - Complete: 6/28/18
-  - Problem Set 5: `speller.c` `dictionary.c` (on hold and adopted as a personal project for the interest of completing this course on time)
+  - Problem Set 5: `speller.c` `dictionary.c` (on hold, adopted as personal project in interest of completing course on time)
 - [ ] **Week 5**
   - Started: 6/29/18
   - Complete: ?
