@@ -23,10 +23,12 @@ Harvard CS50x problem sets and projects.
   - Started: 6/27/18
   - Complete: 6/28/18
   - Problem Set 5: `dictionary.c` (on hold, adopted as personal project in interest of completing course on time)
-- [ ] **Week 5**
+- [x] **Week 5**
+  - Started: 6/29/18
+  - Complete: 6/29/18
+- [ ] **Week 6**
   - Started: 6/29/18
   - Complete: ?
-- [ ] **Week 6**
 - [ ] **Week 7**
 - [ ] **Week 8**
 - [ ] **Week 9**
