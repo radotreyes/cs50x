@@ -28,8 +28,10 @@ Harvard CS50x problem sets and projects.
   - Complete: 6/29/18
 - [ ] **Week 6**
   - Started: 6/29/18
-  - Complete: ?
+  - Complete: 6/30/18
 - [ ] **Week 7**
+  - Started: 7/2/18
+  - Complete: ?
 - [ ] **Week 8**
 - [ ] **Week 9**
 - [ ] **Week 10**
