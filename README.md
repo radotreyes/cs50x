@@ -32,7 +32,7 @@ Harvard CS50x problem sets and projects.
 - [x] **Week 7**
   - Started: 7/2/18
   - Complete: ?
-  -Problem Set 6: `hello.py`, `mario.py` (more), `credit.py`, `caesar.py`
+  - Problem Set 6: `hello.py`, `mario.py` (more), `credit.py`, `caesar.py`
 - [ ] **Week 8**
 - [ ] **Week 9**
 - [ ] **Week 10**
