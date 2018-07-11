@@ -33,6 +33,9 @@ Harvard CS50x problem sets and projects.
   - Started: 7/2/18
   - Complete: ?
   - Problem Set 6: `hello.py`, `mario.py` (more), `credit.py`, `caesar.py`
+  
+  ## But the following weeks focus on web frameworks
+  I'm slowing my pace considerably when it comes to these weeks, since I'm constantly working on web projects. The last few weeks revolve around basic JS and Flask, so I'm in no rush to complete them.
 - [ ] **Week 8**
 - [ ] **Week 9**
 - [ ] **Week 10**
